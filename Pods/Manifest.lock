@@ -1,0 +1,189 @@
+PODS:
+  - Alamofire (4.9.1)
+  - DZNEmptyDataSet (1.8.1)
+  - MBProgressHUD (1.2.0)
+  - ReactiveSwift (6.2.0)
+  - SKPhotoBrowser (6.1.0)
+  - UMCCommon (2.1.1)
+  - UMCShare (6.9.6):
+    - UMCCommon
+    - UMCShare/Core (= 6.9.6)
+    - UMCShare/Social (= 6.9.6)
+    - UMCShare/UI (= 6.9.6)
+  - UMCShare/Core (6.9.6):
+    - UMCCommon
+  - UMCShare/Social (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+    - UMCShare/Social/AlipayShare (= 6.9.6)
+    - UMCShare/Social/DingDing (= 6.9.6)
+    - UMCShare/Social/Douban (= 6.9.6)
+    - UMCShare/Social/DropBox (= 6.9.6)
+    - UMCShare/Social/Email (= 6.9.6)
+    - UMCShare/Social/EverNote (= 6.9.6)
+    - UMCShare/Social/Facebook (= 6.9.6)
+    - UMCShare/Social/FaceBookMessenger (= 6.9.6)
+    - UMCShare/Social/Flickr (= 6.9.6)
+    - UMCShare/Social/GooglePlus (= 6.9.6)
+    - UMCShare/Social/Instagram (= 6.9.6)
+    - UMCShare/Social/Kakao (= 6.9.6)
+    - UMCShare/Social/LaiWang (= 6.9.6)
+    - UMCShare/Social/Line (= 6.9.6)
+    - UMCShare/Social/Linkedin (= 6.9.6)
+    - UMCShare/Social/Pinterest (= 6.9.6)
+    - UMCShare/Social/Pocket (= 6.9.6)
+    - UMCShare/Social/QQ (= 6.9.6)
+    - UMCShare/Social/ReducedQQ (= 6.9.6)
+    - UMCShare/Social/ReducedSina (= 6.9.6)
+    - UMCShare/Social/ReducedWeChat (= 6.9.6)
+    - UMCShare/Social/Renren (= 6.9.6)
+    - UMCShare/Social/Sina (= 6.9.6)
+    - UMCShare/Social/SMS (= 6.9.6)
+    - UMCShare/Social/TencentWeibo (= 6.9.6)
+    - UMCShare/Social/Tumblr (= 6.9.6)
+    - UMCShare/Social/Twitter (= 6.9.6)
+    - UMCShare/Social/VKontakte (= 6.9.6)
+    - UMCShare/Social/WeChat (= 6.9.6)
+    - UMCShare/Social/WhatsApp (= 6.9.6)
+    - UMCShare/Social/YiXin (= 6.9.6)
+    - UMCShare/Social/YouDao (= 6.9.6)
+  - UMCShare/Social/AlipayShare (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/DingDing (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Douban (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/DropBox (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Email (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/EverNote (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Facebook (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/FaceBookMessenger (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Flickr (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/GooglePlus (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Instagram (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Kakao (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/LaiWang (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Line (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Linkedin (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Pinterest (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Pocket (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/QQ (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+    - UMCShare/Social/ReducedQQ
+  - UMCShare/Social/ReducedQQ (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedSina (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/ReducedWeChat (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Renren (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Sina (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+    - UMCShare/Social/ReducedSina
+  - UMCShare/Social/SMS (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/TencentWeibo (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Tumblr (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/Twitter (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/VKontakte (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/WeChat (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+    - UMCShare/Social/ReducedWeChat
+  - UMCShare/Social/WhatsApp (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/YiXin (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/Social/YouDao (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - UMCShare/UI (6.9.6):
+    - UMCCommon
+    - UMCShare/Core
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - Alamofire
+  - DZNEmptyDataSet
+  - MBProgressHUD
+  - ReactiveSwift
+  - SKPhotoBrowser
+  - UMCCommon
+  - UMCShare
+  - YYKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DZNEmptyDataSet
+    - MBProgressHUD
+    - ReactiveSwift
+    - SKPhotoBrowser
+    - UMCCommon
+    - UMCShare
+    - YYKit
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  ReactiveSwift: 3dc8800378110b13d40b46ab362afa9f6bcffc6c
+  SKPhotoBrowser: 343de95d89dc7913763c5dda243cc6e606e4a168
+  UMCCommon: 971f324a5a99c9d662ae040a815e7e3d7ef8b2a8
+  UMCShare: e0cef55c0fd6051254c8cda1d0630eb578b27bad
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: e5d48d963454fa9e39ef50e2ee08a18d6860e671
+
+COCOAPODS: 1.8.4
